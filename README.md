@@ -1,5 +1,17 @@
 # Korean Problemsets Dumper
 
+## Requirements
+
+- [Raku](https://raku.org/) (formerly known as Perl 6) must be installed.
+  - You can install Raku using [rakubrew](https://rakubrew.org/), [rakudo-pkg](https://github.com/nxadm/rakudo-pkg), or your OS package manager.
+- Required modules:
+  - JSON::Tiny
+- You can install modules using:
+
+```bash
+zef install JSON::Tiny
+```
+
 ## Installation
 
 1. Go to [this page](https://ankiweb.net/shared/info/350030456) and click the download button.
